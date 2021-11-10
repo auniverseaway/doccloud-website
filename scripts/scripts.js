@@ -1,4 +1,4 @@
-const LIVE_DOMAIN = 'https://www.hlx.live';
+const LIVE_DOMAIN = 'https://www.adobe.com';
 
 export const config = {
   blocks: {
@@ -7,7 +7,7 @@ export const config = {
       scripts: 'header.js',
       styles: 'header.css',
     },
-    'dc-widget': {
+    '.dc-widget': {
       location: '/blocks/dc-widget/',
       scripts: 'dc-widget.js',
       styles: 'dc-widget.css',
