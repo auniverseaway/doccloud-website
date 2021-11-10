@@ -223,3 +223,4 @@ decorateAnchors(document);
 const blocks = setupBlocks(document, config);
 const lcp = document.querySelector(config.lcp);
 setLCPTrigger(lcp, blocks);
+console.log('test');
